@@ -1,0 +1,15 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules
+
+# generate output
+dist
+greencar
+src/index.html
+src/images/photo.jpg
+.DS_Store
+package-lock.json
